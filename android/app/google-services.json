@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077091163059",
+    "project_id": "chaton-6a0db",
+    "storage_bucket": "chaton-6a0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077091163059:android:32ca2e9dbf03aa37f649c6",
+        "android_client_info": {
+          "package_name": "com.example.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077091163059-70gms7v2d8q2jf0vcomtnv1jkoo9einh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaton",
+            "certificate_hash": "99df664d1d0f5e04541b97694c6b1e5cf8a893f8"
+          }
+        },
+        {
+          "client_id": "1077091163059-7sug658bjg7kbb76vjsdd04n9upv16is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbc8IfYzrpH197INfyJbYohQ4nFFNTTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077091163059-7sug658bjg7kbb76vjsdd04n9upv16is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

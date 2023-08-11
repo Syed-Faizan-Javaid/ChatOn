@@ -1,0 +1,7 @@
+{
+    "appName": "My App",
+    "enterMobileNo": "What's your mobile number?",
+    "sendSMSMessage": "We will send you an SMS message to verify your phone number.",
+    "sendCode": "Send Code",
+    "mobileNoHere": "Enter your mobile number here"
+}
